@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe "/" do
+describe "static_pages/landing.html.erb" do
 
   context "when website has not yet launched" do
 
