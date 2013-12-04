@@ -9,3 +9,7 @@ Scenario: website has not yet launched
   Given the website is accessible
   When I load the landing page
   Then I should see "generatr."
+
+@wip
+
+Scenario: website is being upgraded
