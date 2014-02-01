@@ -1,16 +1,14 @@
-.logo {
-  width: 100%;
-  text-align: center;
-  padding-top: 100px;
-}
+#lander {
 
-.container {
-  text-align: center;
-  padding-top: 10px;
-}
+  background:url(image-url('canvas_bg_tile.jpg'));
+  -webkit-box-shadow: inset 0 8px 6px -6px black;
+     -moz-box-shadow: inset 0 8px 6px -6px black;
+          box-shadow: inset 0 8px 6px -6px black;
 
-.container a {
-  color: #656e73;
-  text-transform: uppercase;
-  font-weight: bold;
+  .logo {
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+  }
+
 }
